@@ -1,0 +1,5 @@
+[run]
+include = cosplay_codex/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
