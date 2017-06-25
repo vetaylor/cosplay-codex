@@ -1,0 +1,22 @@
+{
+  "name": "cosplay_codex",
+  "version": "0.1.0",
+  "description": "A cosplay planner",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vetaylor/cosplay-codex.git"
+  },
+  "author": "Victoria Taylor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vetaylor/cosplay-codex/issues"
+  },
+  "homepage": "https://github.com/vetaylor/cosplay-codex#readme"
+}
